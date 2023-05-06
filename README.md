@@ -1,6 +1,6 @@
 # Getting Started with Create React App
-# Created with the help of ReactJs and Tailwind css.
-# To sign in just give correct email format and put some value in password field to navigate to dashboard.
+## Created with the help of ReactJs and Tailwind css.
+## To sign in just give correct email format and put some value in password field to navigate to dashboard.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
