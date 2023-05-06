@@ -3,6 +3,7 @@
 ## Note :
 * To sign in just give correct email format and put some value in password field to navigate to dashboard.
 * Please refresh the page while changing the size of screen to refresh the graph size.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
